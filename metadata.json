@@ -1,0 +1,6 @@
+{
+  "name": "StudyBuddy",
+  "description": "An AI-powered study companion and mental wellbeing platform for Indian competitive exam aspirants (JEE, NEET, UPSC, and more).",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
